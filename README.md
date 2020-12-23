@@ -14,5 +14,14 @@ Client ----------> WebServer <-> AppServer <-----> DB
       -----------> Kafka -> Spark <--------------> HBase    
                             DevOps
                             CI/CD
-                   
+ 
+ 
+
+
+
+    SOA -> Microservice
+               /   \
+            SOAP   REST
+            RPC    web http
+            
 ```                   
