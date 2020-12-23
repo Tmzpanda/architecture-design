@@ -1,6 +1,7 @@
 # architecture:
 
 
+```
 Frontend           Backend 
 
 
@@ -14,4 +15,4 @@ Client ----------> WebServer <-> AppServer <-----> DB
                             DevOps
                             CI/CD
                    
-      
+```                   
