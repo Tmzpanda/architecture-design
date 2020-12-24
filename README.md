@@ -22,6 +22,6 @@ Client ----------> WebServer <-> AppServer <-----> DB
     SOA -> Microservice
                /   \
             SOAP   REST
-            RPC    web http
+            RPC    
             
 ```                   
